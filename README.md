@@ -2,8 +2,6 @@
 A startup called Sparkify has been collecting data on songs and user activity in JSON format. They are interested in efficiently performing 
 song play analysis. Specifically, they want to know which songs do users prefer.
 
-The goal of the current project is to create a Star Schema optimized for query analysis.
-
 ## About the Source Data
 The dataset has been gathered from [Million Songs Dataset](https://labrosa.ee.columbia.edu/millionsong/) and logs simulated using 
 [event simulator](https://github.com/Interana/eventsim)
